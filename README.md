@@ -1,6 +1,9 @@
 # Connect LINE bot to Microsoft Teams 
 This project is to connect LINE bots with Microsoft Teams by using Azure Functions and Messaging API.
 
+### Programming language for this project:
+- JavaScript
+
 ### Tools for this project:
 - Azure Account
 - LINE Developer Account
